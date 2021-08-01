@@ -1,0 +1,83 @@
+header {
+  background: #f7f8f9;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(204, 204, 204);
+}
+header nav {
+  margin: 0px;
+  display: flex;
+  width: 60%;
+  justify-content: space-around;
+  
+}
+  body{
+    background-color: lightgreen;
+    
+  }
+  a:any-link{
+    color: rgb(250, 248, 250);
+  }
+  a:hover{
+    color: rgb(20, 20, 20);
+  }
+  body{
+    margin: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+.back1{
+    background-color:white;
+}
+ .workimage{
+   width: 500px;
+   height: 500px;
+ }
+ .profile-img{
+   position: absolute;
+   width: 300px;
+   height: 300px;
+   top: 760px;
+   right: 50px;
+ }
+ #passion{
+   position: absolute;
+   top: 400px;
+   right: 0px;
+   font-size: 40px;
+   color: gray
+ }
+.name{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+        font-size:100px;
+    color:rgb(7, 7, 7);
+}
+.back2{
+  width: 50%;
+  height: fit-content;
+  text-align: justify;
+  background-color: rgb(99, 223, 99);
+  font-size: 15px;
+  margin: 20px;
+  border-style: dashed;
+  border: 5px darkgreen;
+}
+footer {
+  background: #f7f8f9;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: teal;
+}
+footer nav {
+  margin: 0px;
+  display: flex;
+  width: 60%;
+  justify-content: space-around;
+  
+}
